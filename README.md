@@ -8,8 +8,11 @@ The project focuses on applying Dijkstra's Algorithm to determine the fastest em
 
 **Repository Contents**
 
-Project Report – Complete documentation of the project, including the problem analysis, system design, algorithm implementation, results, and meeting progress.
+Project Report – Complete documentation of the project, including the problem analysis, system design, algorithm 
+implementation, results, and meeting progress.
+
 Presentation Slides – Slides used for the final project presentation.
+
 Source Code – Implementation of the proposed solution using Dijkstra's Algorithm.
 
 **Group member:**
